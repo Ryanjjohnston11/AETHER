@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data & Models (large / private)
+data/
+models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.h5
+*.pkl
+*.npy
+*.npz
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Frontend
+web/node_modules/
+web/dist/
+web/.next/
+web/out/
+
+# Secrets
+*.pem
+secrets/
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Misc
+.cache/
+.temp/
+tmp/
