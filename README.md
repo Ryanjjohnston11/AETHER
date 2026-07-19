@@ -86,4 +86,18 @@ Building the mathematical core and first constrained generation prototypes.
 This is not a wrapper.  
 The goal is novel control via geometry and topology applied to creative generation.
 
-## Repo Structure
+
+## Vision
+
+Become the default precision instrument for artists who care about authenticity, control, and ownership in the age of generative AI.
+
+Start with the underground and alternative scenes that currently reject generic tools.  
+Earn trust through mathematical rigor and privacy.  
+Expand from there.
+
+## Contact
+609-828-6885
+
+---
+
+**Aether** — stay on your manifold.
